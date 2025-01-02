@@ -52,6 +52,6 @@ For questions or feedback, feel free to reach out:
 
 **Nimish Kawathekar**  
 - **Email**: [nimishkawathekar@gmail.com](mailto:nimishkawathekar4@gmail.com)  
-- **GitHub**: [adityapathak0007](https://github.com/adityapathak0007)  
-- **LinkedIn**: [adityapathak07](https://www.linkedin.com/in/adityapathak07/)
+- **GitHub**: [nimish3145](https://github.com/nimish3145)  
+- **LinkedIn**: [nimish3145](https://www.linkedin.com/in/nimish3145/)
 
